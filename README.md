@@ -1,1 +1,0 @@
-# board-zerynth-oddwires_proteus
