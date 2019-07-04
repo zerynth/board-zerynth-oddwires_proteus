@@ -1,0 +1,15 @@
+---
+description: Add support for oddWires Proteus
+fullname: board.zerynth.oddwires_proteus
+info:
+    board: oddWires Proteus
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- espressif
+- esp32
+- board
+- oddwires
+title: oddWires Proteus Support Package
+...
